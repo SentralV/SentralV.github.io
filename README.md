@@ -1,4 +1,4 @@
-# SentralV
+#  SentralV Beta
 This is the Sentral V Executor official website
                               
  # Scripts                             
@@ -6,3 +6,8 @@ This is the Sentral V Executor official website
 
 
 # Executor
+
+# Credits
+
+# Discord
+
