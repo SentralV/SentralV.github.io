@@ -12,5 +12,6 @@ This is the Sentral V Executor official website
 # Credits
 
 # Discord
+ <a href="https://discord.gg/dxRRemKze5"> Join the community </a>
 
 
